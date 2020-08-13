@@ -1,0 +1,3 @@
+export const CLICK_STARTED = "CLICK_STARTED";
+export const CLICK_SUCCEEDED = "CLICK_SUCCEEDED";
+export const CLICK_FAILED = "CLICK_FAILED";

@@ -1,0 +1,3 @@
+export const INSERT_STARTED = "INSERT_STARTED";
+export const INSERT_SUCCEED = "INSERT_SUCCEED";
+export const INSERT_FAILED = "INSERT_FAILED";
